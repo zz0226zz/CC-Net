@@ -1,3 +1,3 @@
-HI-Net
+CC-Net
 
 The code will be available soon...
