@@ -1,3 +1,3 @@
 CC-Net
 
-The code will be available soon...
+The code will be made publicly available upon the article's acceptance.
